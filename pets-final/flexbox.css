@@ -312,7 +312,7 @@
 .gallery-grid figcaption strong {
   color: #ff9800;
 }
-
+/**/
 /* Alternating background for sections */
 .gallery-container:nth-child(even) {
   background: linear-gradient(135deg, #fff8e1, #ffe0b2);
